@@ -1,0 +1,4 @@
+[ 2023-10-15 16:04:33,136 ] 16 root - INFO - In Predict py importing models
+[ 2023-10-15 16:04:33,308 ] 24 root - INFO - Data Transoformation
+[ 2023-10-15 16:04:33,310 ] 26 root - INFO - Predicting Results
+[ 2023-10-15 16:04:33,316 ] 30 root - INFO - Result is 0

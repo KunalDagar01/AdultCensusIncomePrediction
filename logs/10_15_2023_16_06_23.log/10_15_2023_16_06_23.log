@@ -1,0 +1,15 @@
+[ 2023-10-15 16:06:24,867 ] 11 root - INFO - In App.py
+[ 2023-10-15 16:06:24,870 ] 14 root - INFO - Showing Index page
+[ 2023-10-15 16:06:24,881 ] 224 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-10-15 16:06:24,881 ] 224 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2023-10-15 16:06:33,253 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Oct/2023 16:06:33] "GET / HTTP/1.1" 200 -
+[ 2023-10-15 16:06:33,357 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Oct/2023 16:06:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-10-15 16:07:21,668 ] 22 root - INFO - Submit command recieved
+[ 2023-10-15 16:07:23,654 ] 41 root - INFO - recieved values [51, 'Private', 108438, 'Masters', 14, 'Married-civ-spouse', 'Prof-specialty', 'Husband', 'White', 'Male', 0, 0, 47, 'United-States']
+[ 2023-10-15 16:07:23,654 ] 16 root - INFO - In Predict py importing models
+[ 2023-10-15 16:07:23,820 ] 24 root - INFO - Data Transoformation
+[ 2023-10-15 16:07:23,821 ] 26 root - INFO - Predicting Results
+[ 2023-10-15 16:07:23,828 ] 33 root - INFO - Result is 1
+[ 2023-10-15 16:07:23,828 ] 47 root - INFO - Done Prediction
+[ 2023-10-15 16:07:23,829 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Oct/2023 16:07:23] "POST /submit HTTP/1.1" 200 -
